@@ -1,0 +1,3 @@
+[submodule "random_repo"]
+	path = random_repo
+	url = https://github.com/prointec-pmc/random_repo
